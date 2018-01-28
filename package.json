@@ -1,0 +1,31 @@
+{
+  "name": "abv-wallet",
+  "version": "0.0.1",
+  "description": "Simple cache class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tondy67/abv-wallet.git"
+  },
+  "keywords": [
+    "abv",
+    "abvos",
+    "cache"
+  ],
+  "author": {
+    "name": "Todor Angelov",
+    "email": "abv@tondy.com",
+    "url": "http://tondy.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tondy67/abv-wallet/issues"
+  },
+  "homepage": "https://github.com/tondy67/abv-wallet#readme",
+  "dependencies": {
+    "abv-ts": "0.0.2"
+  }
+}
