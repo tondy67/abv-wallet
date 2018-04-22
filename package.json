@@ -1,6 +1,6 @@
 {
   "name": "abv-wallet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple cache class",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/tondy67/abv-wallet#readme",
   "dependencies": {
-    "abv-ts": "0.0.2"
+    "abv-ts": "0.0.3"
   }
 }
